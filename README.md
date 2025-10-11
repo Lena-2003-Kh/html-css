@@ -44,6 +44,6 @@ It was designed to practice HTML and CSS fundamentals — focusing on clean desi
   ## 👩‍💻 Author
    Lina
 
- 💖 Created with love and code by Lina
+## 💖 Created with love and code by Lina
    
 
